@@ -17,7 +17,13 @@ Hello! 👋 I'm Everton Ferreira Guedes, a Java backend programming student. I'm
 🐍 Python (basics)
 
 ###
-
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evertonferrg/evertonferrg/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evertonferrg/evertonferrg/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/evertonferrg/evertonferrg/output/pacman-contribution-graph.svg">
+</picture>
+</div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
